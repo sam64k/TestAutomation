@@ -1,0 +1,8 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Environment config paramters</comment>
+    <entry key="environmentURL">https://d37mbj4tnfdxm9.cloudfront.net/</entry>
+    <entry key="username">sameer.kalekar</entry>
+    <entry key="password">Shops@direct2021</entry>
+    <entry key="UPI_JsonFile_path">src\\test\\resources\\config\\TestData.json</entry>
+</properties>

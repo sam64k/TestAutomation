@@ -1,0 +1,318 @@
+[
+  {
+    "CustomerAccountNumber" : "79668923",
+    "UPI" : "9011426994301049",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 12,
+        "OrderItemNumber" : 2,
+        "SKU" : "MWJAK",
+        "QPL" : "MUR7U",
+        "ItemDescription" : "Personalised Best Godfather/Godmother Mug",
+        "Quantity" : 1,
+        "NetWeight" : 295,
+        "GrossWeight" : 310,
+        "UnitOfMeasure" : "KG",
+        "UOMQty" : 1035,
+        "CostPrice" : 3.95,
+        "EWS" : 39221246898,
+        "CountryOfOrigin" : "GB",
+        "ProductTypeInd" : "DD",
+        "HarmonisedSystemCode" : 6912002510,
+        "UKHarmonisedSystemCode" : 6912002510,
+        "UKVATRate" : 20.0,
+        "RoIVATRate" : 21.0,
+        "RoIVATCode" : "S",
+        "TwoPersonInd" : "false",
+        "AdditionalCodes" : [
+          "Y935"
+        ],
+        "DutyRate" : 9.0
+      }
+    ]
+  },
+  {
+    "CustomerAccountNumber" : "95309434",
+    "UPI" : "JJD0002249358716290",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 24,
+        "OrderItemNumber" : 1,
+        "SKU" : "QAVTJ",
+        "QPL" : "QAGHH",
+        "ItemDescription" : "Academy 20 Short SleeveTop - Black/Pink",
+        "Quantity" : 1,
+        "NetWeight" : 204,
+        "GrossWeight" : 215,
+        "UnitOfMeasure" : "PIECES",
+        "UOMQty" : 277,
+        "CostPrice" : 8.72,
+        "EWS" : 39221001937,
+        "CountryOfOrigin" : "GB",
+        "ProductTypeInd" : "DC",
+        "HarmonisedSystemCode" : 6109902000,
+        "UKHarmonisedSystemCode" : 6109902000,
+        "UKVATRate" : 20.0,
+        "RoIVATRate" : 21.0,
+        "RoIVATCode" : "S",
+        "TwoPersonInd" : "false",
+        "AdditionalCodes" : [
+          "Y900"
+        ],
+        "DutyRate" : 12.0
+      }
+    ]
+  },
+  {
+    "CustomerAccountNumber" : "24214698",
+    "UPI" : "JJD0002249358724979",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 73,
+        "OrderItemNumber" : 1,
+        "SKU" : "N64VC",
+        "QPL" : "N64VC",
+        "ItemDescription" : "Touch Of Pink For Her 90ml Eau de Toilette",
+        "Quantity" : 1,
+        "NetWeight" : 380,
+        "GrossWeight" : 400,
+        "UnitOfMeasure" : "KG",
+        "UOMQty" : 300,
+        "CostPrice" : 28.43,
+        "EWS" : 39220831584,
+        "CountryOfOrigin" : "DE",
+        "ProductTypeInd" : "DC",
+        "HarmonisedSystemCode" : 3303001000,
+        "UKHarmonisedSystemCode" : 3303001000,
+        "UKVATRate" : 20.0,
+        "RoIVATRate" : 21.0,
+        "RoIVATCode" : "S",
+        "TwoPersonInd" : "false",
+        "DutyRate" : 0.0
+      }
+    ]
+  },
+  {
+    "CustomerAccountNumber" : "63771311",
+    "UPI" : "JJD0002249358721204",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 103,
+        "OrderItemNumber" : 1,
+        "SKU" : "Q9XHN",
+        "QPL" : "Q9C9V",
+        "ItemDescription" : "We Are Awesome Long Sleeve T-shirt - Grey",
+        "Quantity" : 1,
+        "NetWeight" : 141,
+        "GrossWeight" : 148,
+        "UnitOfMeasure" : "PIECES",
+        "UOMQty" : 266,
+        "CostPrice" : 5.70,
+        "EWS" : 39222934013,
+        "CountryOfOrigin" : "GB",
+        "ProductTypeInd" : "DC",
+        "HarmonisedSystemCode" : 6109100010,
+        "UKHarmonisedSystemCode" : 6109100010,
+        "UKVATRate" : 0.0,
+        "RoIVATRate" : 0.0,
+        "RoIVATCode" : "Z",
+        "TwoPersonInd" : "false",
+        "DutyRate" : 12.0
+      }
+    ]
+  },
+  {
+    "CustomerAccountNumber" : "93856798",
+    "UPI" : "JJD0002249358722133",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 145,
+        "OrderItemNumber" : 1,
+        "SKU" : "QP4KK",
+        "QPL" : "QNDWN",
+        "ItemDescription" : "High Neck Ruched Velvet Mini Dress - Navy",
+        "Quantity" : 1,
+        "NetWeight" : 361,
+        "GrossWeight" : 380,
+        "UnitOfMeasure" : "PIECES",
+        "UOMQty" : 387,
+        "CostPrice" : 8.29,
+        "EWS" : 39219763177,
+        "CountryOfOrigin" : "IN",
+        "ProductTypeInd" : "DC",
+        "HarmonisedSystemCode" : 6104430000,
+        "UKHarmonisedSystemCode" : 6104430000,
+        "UKVATRate" : 20.0,
+        "RoIVATRate" : 21.0,
+        "RoIVATCode" : "S",
+        "TwoPersonInd" : "false",
+        "AdditionalCodes" : [
+          "Y922"
+        ],
+        "DutyRate" : 12.0
+      }
+    ]
+  },
+  {
+    "CustomerAccountNumber" : "44760198",
+    "UPI" : "JJD0002249218414306",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 2,
+        "OrderItemNumber" : 4,
+        "SKU" : "QK6DT",
+        "QPL" : "QK6DT",
+        "ItemDescription" : "Royale Garden Toiletry Bag",
+        "Quantity" : 1,
+        "NetWeight" : 439,
+        "GrossWeight" : 462,
+        "UnitOfMeasure" : "KG",
+        "UOMQty" : 650,
+        "CostPrice" : 9.20,
+        "EWS" : 39220987611,
+        "CountryOfOrigin" : "GB",
+        "ProductTypeInd" : "DD",
+        "HarmonisedSystemCode" : 3304990000,
+        "UKHarmonisedSystemCode" : 3304990000,
+        "UKVATRate" : 20.0,
+        "RoIVATRate" : 21.0,
+        "RoIVATCode" : "S",
+        "TwoPersonInd" : "false",
+        "AdditionalCodes" : [
+          "Y900"
+        ],
+        "DutyRate" : 0.0
+      }
+    ]
+  },
+  {
+    "CustomerAccountNumber" : "50603478",
+    "UPI" : "9011425810501049",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 2,
+        "OrderItemNumber" : 1,
+        "SKU" : "PGRYD",
+        "QPL" : "PGRYD",
+        "ItemDescription" : "Solo Pro Wireless Noise-CancellingOn-Ear Headphones",
+        "Quantity" : 1,
+        "NetWeight" : 570,
+        "GrossWeight" : 600,
+        "UnitOfMeasure" : "KG",
+        "UOMQty" : 100,
+        "CostPrice" : 162.50,
+        "EWS" : 39219979688,
+        "CountryOfOrigin" : "GB",
+        "ProductTypeInd" : "DD",
+        "HarmonisedSystemCode" : 8518300090,
+        "UKHarmonisedSystemCode" : 8518300090,
+        "UKVATRate" : 20.0,
+        "RoIVATRate" : 21.0,
+        "RoIVATCode" : "S",
+        "TwoPersonInd" : "false",
+        "DutyRate" : 0.0
+      }
+    ]
+  },
+  {
+    "CustomerAccountNumber" : "47124158",
+    "UPI" : "9011425033101049",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 8,
+        "OrderItemNumber" : 2,
+        "SKU" : "QJ7GF",
+        "QPL" : "QJ7GF",
+        "ItemDescription" : "Personalised Unicorn Grey Christmas Sack",
+        "Quantity" : 1,
+        "NetWeight" : 472,
+        "GrossWeight" : 497,
+        "UnitOfMeasure" : "KG",
+        "UOMQty" : 2765,
+        "CostPrice" : 7.70,
+        "EWS" : 39213061961,
+        "CountryOfOrigin" : "GB",
+        "ProductTypeInd" : "DD",
+        "HarmonisedSystemCode" : 9505109000,
+        "UKHarmonisedSystemCode" : 9505109000,
+        "UKVATRate" : 20.0,
+        "RoIVATRate" : 21.0,
+        "RoIVATCode" : "S",
+        "TwoPersonInd" : "false",
+        "DutyRate" : 2.7
+      }
+    ]
+  },
+  {
+    "CustomerAccountNumber" : "66590036",
+    "UPI" : "9011425449601049",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 81,
+        "OrderItemNumber" : 3,
+        "SKU" : "QN7TF",
+        "QPL" : "QKGND",
+        "ItemDescription" : "Ultrabounce Pillows  Set of 2",
+        "Quantity" : 1,
+        "NetWeight" : 1139,
+        "GrossWeight" : 1199,
+        "UnitOfMeasure" : "KG",
+        "UOMQty" : 2052,
+        "CostPrice" : 6.38,
+        "EWS" : 39219483950,
+        "CountryOfOrigin" : "GB",
+        "ProductTypeInd" : "DD",
+        "HarmonisedSystemCode" : 9404909000,
+        "UKHarmonisedSystemCode" : 9404909000,
+        "UKVATRate" : 20.0,
+        "RoIVATRate" : 21.0,
+        "RoIVATCode" : "S",
+        "TwoPersonInd" : "false",
+        "AdditionalCodes" : [
+          "Y903",
+          "Y935"
+        ],
+        "DutyRate" : 3.7
+      }
+    ]
+  },
+  {
+    "CustomerAccountNumber" : "79291833",
+    "UPI" : "JJD0002249358715240",
+    "ParcelType" : "Standard",
+    "ParcelItems" : [
+      {
+        "OrderNumber" : 20,
+        "OrderItemNumber" : 2,
+        "SKU" : "QLQ6N",
+        "QPL" : "QKXJQ",
+        "ItemDescription" : "The Front Print Slogan T-shirt",
+        "Quantity" : 1,
+        "NetWeight" : 152,
+        "GrossWeight" : 160,
+        "UnitOfMeasure" : "PIECES",
+        "UOMQty" : 266,
+        "CostPrice" : 3.10,
+        "EWS" : 39220678084,
+        "CountryOfOrigin" : "BD",
+        "ProductTypeInd" : "DC",
+        "HarmonisedSystemCode" : 6109100010,
+        "UKHarmonisedSystemCode" : 6109100010,
+        "UKVATRate" : 20.0,
+        "RoIVATRate" : 21.0,
+        "RoIVATCode" : "S",
+        "TwoPersonInd" : "false",
+        "DutyRate" : 12.0
+      }
+    ]
+  }
+  ]

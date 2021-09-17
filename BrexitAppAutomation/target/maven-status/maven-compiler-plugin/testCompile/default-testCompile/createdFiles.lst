@@ -1,0 +1,10 @@
+stepDefinations\Steps.class
+stepDefinations\EditConsignment.class
+browsersession\BrowserType.class
+stepDefinations\CloseConsignment.class
+stepDefinations\LoginSteps.class
+browsersession\ChromeSession.class
+stepDefinations\CreateConsignment.class
+browsersession\Browser.class
+runner\TestRunner.class
+stepDefinations\Setup.class
